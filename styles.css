@@ -10,25 +10,27 @@
     gap: 30px;
 }
 
+.cards > section{
+    padding: 10px 30px;
+    border-radius: 8px;
+}
+
 .uno{
     margin-top: 50px;
     border-top: solid 6px rgb(0, 187, 255);
-    border-radius: 8px;
 }
 
 .dos{
     border-top: solid 6px red;
-    border-radius: 8px;
+
 }
 
 .tres{
     border-top: solid 6px rgb(238, 255, 0);
-    border-radius: 8px;
 }
 
 .cuatro{
     border-top: solid 6px rgb(65, 95, 155);
-    border-radius: 8px;
 }
 .cards section img{
     width: 10%;
