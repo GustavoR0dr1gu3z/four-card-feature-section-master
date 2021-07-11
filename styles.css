@@ -37,13 +37,14 @@
 }
 
 .cards section h2{
-    font-size: 27px;
+    font-size: 32px;
     color: hsl(234, 12%, 34%);
-    font-weight: 600;
+    font-weight: 900;
 }
 
 .cards section p{
     color: hsl(231, 15%, 67%);
+    font-size: 20px;
 }
 
 .pp {
