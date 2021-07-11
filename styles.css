@@ -1,21 +1,16 @@
-div > section{
+.cards > ,.uno, .dos, .tres, .cuatro{
     border: 1px solid rgb(223, 223, 223);
     width: 23%;
     margin-bottom: 10px;
     display: flex;
     cursor: pointer;
-    flex-direction: column;
-}
-
-.cards section{
-    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
 }
 
 .cards section img{
     width: 13%;
-    display: flex;
-    align-items: flex-end;
-    padding-left: 80%;    
 }
 
 .cards section h2{
