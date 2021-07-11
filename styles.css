@@ -11,21 +11,21 @@ div > section{
 
 .uno{
     margin-top: 50px;
-    border-top: solid 10px rgb(0, 187, 255);
+    border-top: solid 6px rgb(0, 187, 255);
     border-radius: 8px;
 }
 
 .dos{
-    border-top: solid 10px red;
+    border-top: solid 6px red;
     border-radius: 8px;
 }
 
 .tres{
-    border-top: solid 10px rgb(238, 255, 0);
+    border-top: solid 6px rgb(238, 255, 0);
     border-radius: 8px;
 }
 
 .cuatro{
-    border-top: solid 10px rgb(65, 95, 155);
+    border-top: solid 6px rgb(65, 95, 155);
     border-radius: 8px;
 }
