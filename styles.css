@@ -1,32 +1,13 @@
-.cards > ,.uno, .dos, .tres, .cuatro{
+.cards > .uno, .dos, .tres, .cuatro{
     border: 1px solid rgb(223, 223, 223);
     width: 23%;
     margin-bottom: 10px;
     display: flex;
     cursor: pointer;
+    display: block;
     justify-content: center;
-    align-items: center;
-    gap: 80px;
-}
-
-.cards section img{
-    width: 13%;
-}
-
-.cards section h2{
-    font-size: 27px;
-    color: hsl(234, 12%, 34%);
-    font-weight: 600;
-}
-
-.cards section p{
-    color: hsl(231, 15%, 67%);
-}
-
-.pp {
-    font-size: 20px;
-    color: hsl(231, 15%, 67%);
-    text-align: center;
+    align-items: flex-end;
+    gap: 30px;
 }
 
 .uno{
@@ -48,4 +29,23 @@
 .cuatro{
     border-top: solid 6px rgb(65, 95, 155);
     border-radius: 8px;
+}
+.cards section img{
+    width: 10%;
+}
+
+.cards section h2{
+    font-size: 27px;
+    color: hsl(234, 12%, 34%);
+    font-weight: 600;
+}
+
+.cards section p{
+    color: hsl(231, 15%, 67%);
+}
+
+.pp {
+    font-size: 20px;
+    color: hsl(231, 15%, 67%);
+    text-align: center;
 }
