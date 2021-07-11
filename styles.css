@@ -18,8 +18,16 @@ div > section{
     padding-left: 80%;    
 }
 
+.cards section h2{
+    font-size: 27px;
+    color: hsl(234, 12%, 34%);
+    font-weight: 600;
+}
+
 .pp {
-    font-size: 50px;
+    font-size: 20px;
+    color: hsl(231, 15%, 67%);
+    text-align: center;
 }
 
 .uno{
