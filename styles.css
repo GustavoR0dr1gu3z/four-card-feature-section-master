@@ -8,6 +8,9 @@
     justify-content: center;
     align-items: flex-end;
     gap: 30px;
+    /*laterales, arriba u abajo*/
+    box-shadow: 12px 18px 40px rgb(175, 173, 173);
+    
 }
 
 .cards > section{
@@ -16,7 +19,7 @@
 }
 
 .uno{
-    margin-top: 50px;
+    margin-top: 90px;
     border-top: solid 6px rgb(0, 187, 255);
 }
 
